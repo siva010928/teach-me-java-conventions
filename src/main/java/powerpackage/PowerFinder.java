@@ -1,5 +1,7 @@
 package powerpackage;
 
+
+/* 2^3 = 8 */
 public class PowerFinder {
     public int getPowerOf(int base, int exponent) {
         int power = 1;
